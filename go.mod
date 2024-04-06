@@ -1,3 +1,3 @@
-module github.com/TruElysian/sisyphus
+module sisyphus
 
-go 1.20
+go 1.21
